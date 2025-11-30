@@ -1,2 +1,0 @@
-# geeksForGeeksProblem
-Created with CodeSandbox
